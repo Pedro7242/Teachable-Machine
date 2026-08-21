@@ -25,7 +25,7 @@ mas eu refiz e ele funcionou normalmente.
 
 <img width="755" height="223" alt="image" src="https://github.com/user-attachments/assets/28aaea88-137f-4951-ab24-1c61ed5c49ee" />
 
-<img width="363" height="628" alt="image" src="https://github.com/user-attachments/assets/d89c40fb-a519-4a6f-a82a-81634ce18206" />
+<img width="366" height="611" alt="image" src="https://github.com/user-attachments/assets/96a50973-71fd-441d-a784-04d632f06849" />
 
 ## Autor
 
