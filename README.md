@@ -6,6 +6,10 @@ O modelo foi treinado no **Teachable Machine** para identificar três situaçõe
 
 A aplicação usa a webcam para analisar a imagem e identificar em qual categoria a pessoa se encaixa.
 
+## Link do Modelo Exportado
+
+https://teachablemachine.withgoogle.com/models/MafoEdN0X/
+
 ## Modelo
 
 Foram utilizadas imagens das três categorias para que a IA aprendesse a diferenciar cada situação.
